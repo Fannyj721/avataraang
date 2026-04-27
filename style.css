@@ -167,7 +167,7 @@ h1 span {color: #2c2c2c;}
       
       
       .imgUno {
-        background-image: url(IMG/aang.jpg);
+        background-image: url(img/aang.jpg);
         /*Agregar background-image: url(); para añadir imágenes*/
         float: left;
         height: 510px;
@@ -177,16 +177,16 @@ h1 span {color: #2c2c2c;}
       }
       
       .imgDos {
-        background-image: url(IMG/kat.jpeg);
+              background-image: url(img/kat.jpg);
         float: left;
         height: 510px;
-        width: 2000px;
+        width: 2000px;       
         background-repeat: no-repeat;
         background-size: cover;
       }
       
       .imgTres {
-        background-image: url(IMG/sokk.jpg);
+        background-image: url(img/sokk.jpg);
         float: left;
         height: 510px;
         width: 2000px;       
@@ -195,7 +195,7 @@ h1 span {color: #2c2c2c;}
       }
       
       .imgCuatro {
-        background-image: url(IMG/imagesthop.jpeg);
+        background-image: url(img/imagesthop.jpeg);
         float: left;
         height: 510px;
         width: 2000px   ;
